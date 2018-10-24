@@ -1,0 +1,9 @@
+.image-item-list{
+    width: 400px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+    height: 450px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

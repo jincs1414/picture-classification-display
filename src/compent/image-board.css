@@ -1,0 +1,21 @@
+.image-board {
+
+    position: absolute;
+    right: 400px;
+    top: 100px;
+}
+ .image-board-image *{
+    width: 600px;
+    height: 400px;
+} 
+
+.image-board-information{
+    position: absolute;
+    top: 50px;
+    right: -200px;
+}
+
+.image-board-widget-content{
+    position: relative;
+    left: 38%;
+}
