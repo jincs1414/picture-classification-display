@@ -3,6 +3,10 @@
 npm命令
 `npm i name -d --save` 安装开发版本的依赖 i-->(install) -d-->(--devDependencies)
 
+### 单元测试
+  [enzyme单元测试框架](https://airbnb.io/enzyme/docs/installation/index.html)  
+  
+  [一步步建立一个React App,项目基本配置,包括单元测试](https://blog.csdn.net/zhangxuekang/article/details/80472316)  
 ## 总结
 
  - css
@@ -15,3 +19,4 @@ npm命令
         <option value={key}>{tifs[key]}</option>
     )
   ```
+

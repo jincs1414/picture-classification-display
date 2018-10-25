@@ -24,6 +24,9 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "babel-plugin-import": "^1.10.0"
+    "babel-plugin-import": "^1.10.0",
+    "chai": "^4.2.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0"
   }
 }
